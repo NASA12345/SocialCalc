@@ -23,4 +23,4 @@ Open `http://localhost:3000` in your browser and you're good to go.
 
 ## Built with
 
-- HTML / CSS / JavaScript
+- Javascript, React.js, Tailwind CSS, Firebase
